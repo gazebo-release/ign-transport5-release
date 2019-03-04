@@ -16,7 +16,8 @@ Build-Depends: cmake,
                libignition-tools-dev,
                protobuf-compiler,
                uuid-dev,
-               libzmq3-dev (>= 3.0.0)
+               libzmq3-dev (>= 3.0.0),
+               libsqlite3-dev
 Vcs-Browser: https://bitbucket.org/ignitionrobotics/ign-transport5-release
 Vcs-Hg: https://bitbucket.org/ignitionrobotics/ign-transport5-release
 Homepage: https://bitbucket.org/ignitionrobotics/ign-transport
